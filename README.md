@@ -4,6 +4,7 @@ Send unlimited emails to a recipient (ENG version)
 This is the english version of the program "mail infinite"
 
 This program offers 3 options:
+
 create a Gmail account with random email and password
 
 create a strong password choosing length and type
